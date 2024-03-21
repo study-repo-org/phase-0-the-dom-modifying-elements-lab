@@ -10,4 +10,4 @@ const newHeader = document.createElement('h1');
 newHeader.id = 'victory';
 
 // last added a text to the <h1> element
-newHeader.textContent = "YOUR-NAME is the champion"; 
+newHeader.textContent = "Mohamed is the champion"; 
